@@ -3,7 +3,7 @@
 The web app for funders, clinics and attesters. Next.js 16, React 19,
 Tailwind 4, TypeScript.
 
-## Setup
+# # Setup
 
 Use Node 22 (`nvm use` reads `.nvmrc`). Its bundled npm 10 is what CI runs;
 a lockfile written by npm 11 drops entries npm 10 requires and fails `npm ci`.
